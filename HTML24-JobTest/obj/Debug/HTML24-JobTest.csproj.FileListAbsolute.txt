@@ -1,0 +1,5 @@
+c:\users\oliver\documents\visual studio 11\Projects\HTML24-JobTest\HTML24-JobTest\bin\HTML24-JobTest.dll
+c:\users\oliver\documents\visual studio 11\Projects\HTML24-JobTest\HTML24-JobTest\bin\HTML24-JobTest.pdb
+c:\users\oliver\documents\visual studio 11\Projects\HTML24-JobTest\HTML24-JobTest\obj\Debug\HTML24-JobTest.csprojResolveAssemblyReference.cache
+c:\users\oliver\documents\visual studio 11\Projects\HTML24-JobTest\HTML24-JobTest\obj\Debug\HTML24-JobTest.dll
+c:\users\oliver\documents\visual studio 11\Projects\HTML24-JobTest\HTML24-JobTest\obj\Debug\HTML24-JobTest.pdb
